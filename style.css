@@ -1,0 +1,134 @@
+#textpaket {
+	float:right;
+	margin-right:15%;
+}
+#logopaket{
+	float:left;
+	margin-left:15%;
+}
+	.img-wifi {
+width:20%;
+height:auto;
+
+}
+.img-phone {
+width:20%;
+}
+.img-useetv {
+width:20%;
+}
+.img-logo {
+width:6%;
+weight:100%;
+margin:20px;
+}
+.tipepaket {
+text-align:center;
+color:#cc0000;
+}
+.isitipepaket {
+text-align:center;
+color:#cc0000;
+}
+.whatsapp {
+text-align:center;
+border-radius:35px;
+border:2px solid white;
+background:#00b359;
+width:300px;
+padding:3px;
+}
+.whatsapp:hover{
+	background:#009900;
+}
+
+#headerpaket {
+border-radius:25px 25px 0px 0px;
+background:#cc0000;
+width:auto;
+height:auto;
+padding:2px;
+text-align:center;
+color:white;
+}
+
+
+#bodypaket {
+border-radius:0px 0px 0px 0px;
+background:white;
+width:auto;
+height:auto;
+text-align:center;
+border:1px solid #cc0000;
+}
+#footerpaket {
+border-radius:0px 0px 5px 5px;
+background:#cc0000;
+text-align:center;
+color:white;
+padding:14px 16px;
+font-size:15px;}
+#footerpaket:hover{
+	background:#990000;
+}
+#containerpaket {
+background:#cc0000;
+padding:0px;
+border-radius:20px 20px 10px 10px;
+width:100%;
+border:2px solid #ffffff;
+}
+#containerpaket:hover{
+box-shadow: 3px 3px 7px;
+}
+
+.box {
+  text-align:center;
+  border-radius: 30px;
+  background:#cc0000;
+  padding: 20px; 
+  width: 94%;
+  box-shadow: 7px 7px 9px #262626;
+  color:white;
+  margin-left:3%;
+  margin-right:3%;
+}
+.containernav {
+width:100%;
+height:auto;
+background:#cc0000;
+margin-left:0px;
+
+box-shadow:0px 5px 10px;
+}
+ul .navtop {
+  list-style-type: none;
+  position:relative;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+.navtop li {
+  float: right;
+  vertical-align:right;
+}
+li.navtop a {
+  display: block;
+  color: white;
+position:relative;
+  cursor:pointer;
+vertical-align:right;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float:right;
+  font-size:17px;
+}
+li.navtop a:hover {
+  background-color: #b30000;
+}
+.main {
+  margin-top:3%;
+
+}
